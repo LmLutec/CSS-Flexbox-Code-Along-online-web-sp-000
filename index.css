@@ -36,3 +36,7 @@ footer {
   margin: 5px;
   background-color: #FCF2EC;
 }
+
+.main {
+  flex-wrap: wrap;
+}
